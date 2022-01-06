@@ -44,7 +44,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KOT-BOTS-REPO/KOT-FILE-STORE-BOT)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aslamcreation12/sharing-bot)</br>
 <a href="https://t.me/KOT_SOURCE_CODE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
